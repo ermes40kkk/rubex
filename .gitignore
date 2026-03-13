@@ -3,3 +3,10 @@ map/node_modules/.bin/json2csv
 node_modules/
 map/node_modules/
 project/.env.example
+map/.env
+map/data/geocode-cache.json
+map/data/jobs-geocoded.csv
+map/data/jobs-geocoded.json
+map/data/jobs-raw.json
+map/data/jobs.csv
+map/data/jobs.json
