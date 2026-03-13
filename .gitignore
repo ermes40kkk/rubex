@@ -1,0 +1,5 @@
+map/node_modules/.package-lock.json
+map/node_modules/.bin/json2csv
+node_modules/
+map/node_modules/
+project/.env.example
